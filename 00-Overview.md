@@ -23,34 +23,3 @@ Use this dashboard to navigate your study path, reflect on real-world relevance,
 | 13 | [[13-Labs-and-Simulations/]]                 | Packet Tracer & GNS3 labs                    |
 | 99 | [[99-Resources/]]                            | Study plans, templates, cheat sheets         |
 
----
-
-## 💡 Real-World Reflection Prompts
-
-Use these questions at the bottom of each note you write:
-
-> **💭 How would I apply this in a real job?**  
-> **🛠 Could I configure this from scratch?**  
-> **🚨 What would break if I misconfigured this?**  
-> **📡 Where have I seen this used in real networks (YouTube labs, Cisco docs, etc.)?**  
-> **🧪 Could I explain this to someone with zero networking experience?**
-
----
-
-## 🗓 Study Tracker & Plan
-
-> Track progress weekly and check off key objectives:
-→ [[99-Resources/ccna-study-plan.md]]
-
----
-
-## 🔗 Quick Links
-- [Cisco CCNA Volume 1 PDF / Book]()
-- [Cisco CCNA Volume 2 PDF / Book]()
-- [NetAcad Curriculum]()
-- [Packet Tracer Labs]()
-- [Exam Objectives Checklist](https://learningnetwork.cisco.com/s/ccna-exam-topics)
-
----
-
-*“Amateurs memorize. Professionals understand.”*  

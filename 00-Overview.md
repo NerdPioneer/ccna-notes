@@ -4,7 +4,7 @@ Use this dashboard to navigate your study path, reflect on real-world relevance,
 
 ---
 
-## 📚 CCNA Topics Overview
+## CCNA Topics Overview
 
 | #  | Topic Folder                                 | Purpose / Key Focus                          |
 |----|----------------------------------------------|----------------------------------------------|

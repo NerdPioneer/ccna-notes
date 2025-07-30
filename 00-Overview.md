@@ -1,4 +1,3 @@
-Welcome to your personal CCNA command center. 
 
 Use this dashboard to navigate your study path, reflect on real-world relevance, and reinforce deep understanding.
 

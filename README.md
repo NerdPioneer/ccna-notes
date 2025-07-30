@@ -21,6 +21,3 @@ The notes are organized into the following sections:
 - **13-Labs-and-Simulations** - Practical exercises and simulations
 - **99-Resources** - Additional study materials and references
 
-## 🔧 Repository Configuration
-
-This repository is configured for use with Obsidian for note-taking, but the `.obsidian` folder is hidden from version control and VS Code's file explorer for a cleaner workspace experience.
